@@ -1,2 +1,4 @@
 # theory-of-magnetism-akanaev
-Задания
+Лаб.р №1
+Лаб.р №2
+Лаб.р №3
